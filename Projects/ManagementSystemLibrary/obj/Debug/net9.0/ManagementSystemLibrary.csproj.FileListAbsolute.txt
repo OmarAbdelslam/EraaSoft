@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\bin\Debug\net9.0\ManagementSystemLibrary.exe
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\bin\Debug\net9.0\ManagementSystemLibrary.deps.json
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\bin\Debug\net9.0\ManagementSystemLibrary.runtimeconfig.json
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\bin\Debug\net9.0\ManagementSystemLibrary.dll
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\bin\Debug\net9.0\ManagementSystemLibrary.pdb
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.AssemblyInfo.cs
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.dll
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\refint\ManagementSystemLibrary.dll
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.pdb
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ManagementSystemLibrary.genruntimeconfig.cache
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\ManagementSystemLibrary\obj\Debug\net9.0\ref\ManagementSystemLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\bin\Debug\net9.0\List's Contant.exe
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\bin\Debug\net9.0\List's Contant.deps.json
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\bin\Debug\net9.0\List's Contant.runtimeconfig.json
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\bin\Debug\net9.0\List's Contant.dll
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\bin\Debug\net9.0\List's Contant.pdb
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.AssemblyInfo.cs
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.dll
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\refint\List's Contant.dll
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.pdb
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\List's Contant.genruntimeconfig.cache
+C:\Users\DELL\Desktop\.Net EraaSoft Tasks\List's Contant\obj\Debug\net9.0\ref\List's Contant.dll
