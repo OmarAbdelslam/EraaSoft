@@ -17,7 +17,12 @@ namespace Entities
 
         public string PrintDetails()
         {
-            return string.Empty;
+            return $"{InstructorId}\t{Name}\t{Specialization}";
+        }
+
+        public override string ToString()
+        {
+            return PrintDetails();
         }
     }
 }

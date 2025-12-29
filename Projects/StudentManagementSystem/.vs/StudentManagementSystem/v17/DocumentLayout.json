@@ -1,46 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\entities2\\blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:entities2\\blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\entities\\dbwork\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|solutionrelative:entities\\dbwork\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\entities2\\dbwork\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:entities2\\dbwork\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\entities2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:entities2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|solutionrelative:entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\entities2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:entities2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\exceptions\\instructornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\exceptions\\instructornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:exceptions\\instructornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\exceptions\\coursenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\exceptions\\coursenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:exceptions\\coursenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:exceptions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\studentmanagementsystem\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BF11A6C1-ED65-4BE0-B93D-9DBD0F2BE079}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6E47FB5-1726-4A96-BA23-93F92A6D2CB1}|StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,69 +46,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDBcontext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\DBWork\\AppDBcontext.cs",
-              "RelativeDocumentMoniker": "Entities\\DBWork\\AppDBcontext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\DBWork\\AppDBcontext.cs",
-              "RelativeToolTip": "Entities\\DBWork\\AppDBcontext.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAkwF8AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\Course.cs",
+              "RelativeDocumentMoniker": "Entities2\\Course.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\Course.cs",
+              "RelativeToolTip": "Entities2\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T19:53:05.18Z",
+              "WhenOpened": "2025-12-29T19:05:10.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\Student.cs",
+              "RelativeDocumentMoniker": "Entities2\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\Student.cs",
+              "RelativeToolTip": "Entities2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:01:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLogic.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\BLogic.cs",
+              "RelativeDocumentMoniker": "Entities2\\BLogic.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\BLogic.cs",
+              "RelativeToolTip": "Entities2\\BLogic.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:59:35.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "Entities\\Course.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Course.cs",
-              "RelativeToolTip": "Entities\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\DBWork\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "Entities2\\DBWork\\AppDBcontext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Entities2\\DBWork\\AppDBcontext.cs",
+              "RelativeToolTip": "Entities2\\DBWork\\AppDBcontext.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwEYAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T19:33:56.4Z",
+              "WhenOpened": "2025-12-28T22:57:32.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Student.cs",
-              "RelativeToolTip": "Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T19:24:05.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Instructor.cs",
-              "RelativeDocumentMoniker": "Entities\\Instructor.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Instructor.cs",
-              "RelativeToolTip": "Entities\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T19:36:28.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowEcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T19:19:43.018Z",
               "EditorCaption": ""
@@ -121,66 +115,49 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "InstructorNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Exceptions\\InstructorNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Exceptions\\InstructorNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InstructorNotFoundException.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Exceptions\\InstructorNotFoundException.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Exceptions\\InstructorNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\InstructorNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T20:30:41.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Exceptions\\StudentNotFoundException.cs",
-              "RelativeDocumentMoniker": "Exceptions\\StudentNotFoundException.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Exceptions\\StudentNotFoundException.cs",
-              "RelativeToolTip": "Exceptions\\StudentNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T20:26:02.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T20:30:41.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "StudentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Exceptions\\StudentNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\StudentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Exceptions\\StudentNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\StudentNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:26:02.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CourseNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Exceptions\\CourseNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Exceptions\\CourseNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\CourseNotFoundException.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Exceptions\\CourseNotFoundException.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\Exceptions\\CourseNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\CourseNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T20:29:32.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T20:29:32.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "StudentManagementSystem",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "Title": "StudentManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\StudentManagementSystem.csproj",
               "RelativeDocumentMoniker": "StudentManagementSystem.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\StudentManagementSystem\\StudentManagementSystem.csproj",
               "RelativeToolTip": "StudentManagementSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-26T20:25:07.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Entities",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Entities.csproj",
-              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\StudentManagementSystem\\Entities\\Entities.csproj",
-              "RelativeToolTip": "Entities\\Entities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-26T19:39:32.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T20:25:07.372Z"
             }
           ]
         }

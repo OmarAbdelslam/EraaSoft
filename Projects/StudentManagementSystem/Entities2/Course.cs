@@ -12,13 +12,19 @@ namespace Entities
 
         public string Title { get; set; }
 
-        public Instructor Instructor { get; set; }
+        public virtual Instructor Instructor { get; set; } = new Instructor();
 
 
 
         public string PrintDetails()
         {
-            return string.Empty;
+            return $"{CourseId}\t{Title}\t{Instructor.InstructorId}\t{Instructor.Name
+                }\t{Instructor.Specialization}";
+        }
+
+        public override string ToString()
+        {
+            return PrintDetails();
         }
     }
 }

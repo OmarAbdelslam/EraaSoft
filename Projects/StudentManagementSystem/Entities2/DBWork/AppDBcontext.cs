@@ -9,11 +9,11 @@ namespace Entities.DBWork
 {
     public class AppDBcontext
     {
-        public IList<Student> students { get; set; }
+        public static IList<Student> students { get; set; }
 
-        public IList<Course> courses { get; set; }
+        public static IList<Course> courses { get; set; }
 
-        public IList<Instructor> instructors { get; set; }
+        public static IList<Instructor> instructors { get; set; }
 
 
         public AppDBcontext() 
@@ -49,31 +49,56 @@ namespace Entities.DBWork
             return true;
         }
 
-        public Student GetStudent(int? id)
+        public Student GetStudent(int? id,string name = "no name")
         {
-            if(id != null) throw new ArgumentNullException();
-            var student = students.FirstOrDefault(s=> s.StudentId == id);
+            if(id == null && name == "no name") throw new ArgumentNullException();
+            var student = students.FirstOrDefault(s=> s.StudentId == id) ?? students.First(s=>s.Name == name);
             if(student == null) throw new StudentNotFoundException();
             return student;
         }
 
-        public Course GetCourse(int? id)
+        public Student GetStudentWithCourses(int? id)
         {
             if (id != null) throw new ArgumentNullException();
-            var course = courses.FirstOrDefault(c => c.CourseId == id);
+            var student = students.FirstOrDefault(s => s.StudentId == id);
+            if (student == null) throw new StudentNotFoundException();
+            return student;
+        }
+
+        public Course GetCourse(int? id , string title = "no name")
+        {
+            if (id == null && title =="no name") throw new ArgumentNullException();
+            var course = courses.FirstOrDefault(c => c.CourseId == id) ?? courses.FirstOrDefault(c => c.Title == title);
             if (course == null) throw new CourseNotFoundException();
             return course;
         }
 
         public Instructor GetInstructor(int? id)
         {
-            if (id != null) throw new ArgumentNullException();
+            if (id == null) throw new ArgumentNullException();
             var instructor = instructors.FirstOrDefault(i => i.InstructorId == id);
             if (instructor == null) throw new InstructorNotFoundException();
             return instructor;
         }
 
         public bool EnrollStudentInCourse(int? studentId, int? courseId)
+        {
+            if (studentId == null && courseId == null) throw new ArgumentNullException();
+            var stu = GetStudent(studentId);
+            var cou = GetCourse(courseId);
+            if(stu.Enroll(cou)) return true;
+
+            return false;
+        }
+
+        public IList<Student> ShowAllStudents() => students;
+
+        public IList<Course> ShowAllCourses() => courses;
+
+        public IList<Instructor> ShowAllInstractor() => instructors;
+
+
+        public bool StudentEnrolledInSpecificCourse(int? studentId, int? courseId)
         {
             if(studentId == null && courseId == null) throw new ArgumentNullException();
             var stu = GetStudent(studentId);
@@ -96,5 +121,22 @@ namespace Entities.DBWork
             return string.Empty;
         }
 
+
+        public static void ShowOperations()
+        {
+            Console.WriteLine("welcome in Student Management System \nEnter any number of operations\n");
+            Console.WriteLine("1. Add Student\n" +
+                "2. Add Instructor\n" +
+                "3. Add Course\n" +
+                "4. Enroll Student in Course\n" +
+                "5. Show All Student\n" +
+                "6. Show All Students with their courses\n"+
+                "7. Show All Course's\n" +
+                "8. Show All Instructors\n" +
+                "9. Find the student by id or name\n" +
+                "10. find the course by id or name\n" +
+                "11. Clear The Window\n"+
+                "12. Exit\n");
+        }
     }
 }
