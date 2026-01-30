@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\bin\Debug\net9.0\GenericsType.exe
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\bin\Debug\net9.0\GenericsType.deps.json
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\bin\Debug\net9.0\GenericsType.runtimeconfig.json
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\bin\Debug\net9.0\GenericsType.dll
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\bin\Debug\net9.0\GenericsType.pdb
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.sourcelink.json
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.dll
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\refint\GenericsType.dll
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.pdb
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\GenericsType.genruntimeconfig.cache
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\GenericsType\obj\Debug\net9.0\ref\GenericsType.dll
