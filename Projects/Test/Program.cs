@@ -1,14 +1,37 @@
 ﻿namespace Test
 {
-
     public class Program
     {
-        private int[] array = { 1, 2, 3, 4, 5 };
-        public int this[int a] => array[a];
+
+        public static string[] arrstring()
+        {
+            return new string[] { "omar", "Ahmed", "Ali", "Hossam", "Mohammed" };
+        }
+       
+
+        public static void mm(string[] arr)
+        {
+            string text;
+        next:
+            for (int a = 0; a < arr.Length -1; a++)
+            {
+                if (arr[a].Length < arr[a +1].Length)
+                {
+                    text = arr[a];
+                    arr[a] = arr[a + 1];
+                    arr[a + 1] = text;
+                    goto next;
+                }
+            }
+            foreach(var a in arr)
+            {
+                Console.WriteLine(a);
+            }
+        }
         public static void Main(string[] args)
         {
-            Program program = new Program();
-            Console.WriteLine( program[0]);
+            Console.WriteLine("Starting....");
+            mm(arrstring());
             Console.ReadKey();
         }
     }

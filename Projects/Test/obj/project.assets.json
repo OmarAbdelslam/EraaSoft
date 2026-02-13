@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\Test\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
