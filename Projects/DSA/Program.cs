@@ -55,14 +55,19 @@
     }
     internal class Program
     {
+
+        static void Array(int[] arr)
+        {
+            int[]distinctarray = new int[arr.Length];
+            int count = 0;
+            foreach(int a in arr)
+            {
+
+            }
+        }
         static void Main(string[] args)
         {
-            LinkedList linkedList = new LinkedList();
-            linkedList.Add(new Node(null, "Omar"));
-            linkedList.Add(new Node(null, "Ahmed"));
-            linkedList.Add(new Node(null, "Mohammed"));
-
-            linkedList.ShowData();
+            Array(new[] { 4,5,6,8,4,2,8} );
         }
     }
 }
