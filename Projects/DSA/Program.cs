@@ -56,18 +56,34 @@
     internal class Program
     {
 
-        static void Array(int[] arr)
+        public static void Fibonacci(int count)
         {
-            int[]distinctarray = new int[arr.Length];
-            int count = 0;
-            foreach(int a in arr)
-            {
+            int a = 1;
 
+            int[] arr = new int[count];
+            int c = 1;
+            for(c = 1;c <= count;c++)
+            {
+                if(arr.Count() > c && (c != 0 && arr[c] != 1))
+                {
+                    arr[c] = arr[c];
+                    
+                }
+                else
+                {
+                    arr[c] = arr[c] + a;
+                    ++a;
+                }
+            }
+            foreach(int i in arr)
+            {
+                Console.WriteLine(i);
             }
         }
+
         static void Main(string[] args)
         {
-            Array(new[] { 4,5,6,8,4,2,8} );
+            Fibonacci(7);
         }
     }
 }

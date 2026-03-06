@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\dsa\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|solutionrelative:departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\dsa\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\dsa\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\dsa\\migrations\\20260228112354_firstmigtation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48A2931-83D9-4A98-8762-60F4A3435BDF}|DSA.csproj|solutionrelative:migrations\\20260228112354_firstmigtation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Departement.cs",
+              "RelativeDocumentMoniker": "Departement.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Departement.cs",
+              "RelativeToolTip": "Departement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:13:54.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:13:06.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAADXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:09:24.852Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEUAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T23:15:31.523Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260228112354_FirstMigtation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Migrations\\20260228112354_FirstMigtation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260228112354_FirstMigtation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\DSA\\Migrations\\20260228112354_FirstMigtation.cs",
+              "RelativeToolTip": "Migrations\\20260228112354_FirstMigtation.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:23:55.252Z"
             }
           ]
         }
