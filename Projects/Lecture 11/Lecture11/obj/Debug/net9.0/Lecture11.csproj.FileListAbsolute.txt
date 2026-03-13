@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 11\Lecture11\obj\Debug\net9.0\Lecture11.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 11\Lecture11\obj\Debug\net9.0\Lecture11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 11\Lecture11\obj\Debug\net9.0\Lecture11.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 11\Lecture11\obj\Debug\net9.0\Lecture11.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 11\Lecture11\obj\Debug\net9.0\Lecture11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 11\Lecture11\obj\Debug\net9.0\Lecture11.sourcelink.json

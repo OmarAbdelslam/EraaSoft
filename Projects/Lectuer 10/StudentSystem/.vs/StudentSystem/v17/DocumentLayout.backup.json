@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lectuer 10\\studentsystem\\dbwork\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|solutionrelative:dbwork\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lectuer 10\\studentsystem\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|solutionrelative:entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lectuer 10\\studentsystem\\mockdata\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|solutionrelative:mockdata\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lectuer 10\\studentsystem\\dbwork\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|solutionrelative:dbwork\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C4D791-32D0-45B0-8C37-9E51E19439F7}|StudentSystem.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lectuer 10\\studentsystem\\mockdata\\resource.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.json",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\MockData\\Student.json",
               "RelativeDocumentMoniker": "MockData\\Student.json",
@@ -78,32 +78,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\DBWork\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "DBWork\\ApplicationDBContext.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\DBWork\\ApplicationDBContext.cs",
               "RelativeToolTip": "DBWork\\ApplicationDBContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T23:56:52.353Z"
+              "WhenOpened": "2026-03-06T23:56:52.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\Entity\\Student.cs",
               "RelativeDocumentMoniker": "Entity\\Student.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\Entity\\Student.cs",
               "RelativeToolTip": "Entity\\Student.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vw8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T21:49:35.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T21:49:35.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Course.json",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\MockData\\Course.json",
               "RelativeDocumentMoniker": "MockData\\Course.json",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Resource.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lectuer 10\\StudentSystem\\Entity\\Resource.cs",
               "RelativeDocumentMoniker": "Entity\\Resource.cs",
