@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lecture 11\\lecture11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lecture 11\\lecture11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lecture 11\\lecture11\\lecture11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|solutionrelative:lecture11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lecture 11\\lecture11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\lecture 11\\lecture11\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545B25B0-C5C6-407A-830E-D1812D398F97}|Lecture11.csproj|solutionrelative:models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lecture11",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T23:30:53.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "Models\\BikeStoresContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:49:49.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecture11.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Lecture11.csproj",
               "RelativeDocumentMoniker": "Lecture11.csproj",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Lecture11.csproj",
               "RelativeToolTip": "Lecture11.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T21:32:10.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T21:32:10.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Lecture 11\\Lecture11\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T20:49:30.617Z",
               "EditorCaption": ""
