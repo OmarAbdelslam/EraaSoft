@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{C0C8B640-5FD2-4CFE-9BCF-34E335B2AA9E}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0C8B640-5FD2-4CFE-9BCF-34E335B2AA9E}|Test.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\test\\overrideoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C8B640-5FD2-4CFE-9BCF-34E335B2AA9E}|Test.csproj|solutionrelative:overrideoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0C8B640-5FD2-4CFE-9BCF-34E335B2AA9E}|Test.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C0C8B640-5FD2-4CFE-9BCF-34E335B2AA9E}|Test.csproj|solutionrelative:test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -18,11 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "overrideoperators.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\overrideoperators.cs",
+              "RelativeDocumentMoniker": "overrideoperators.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\overrideoperators.cs",
+              "RelativeToolTip": "overrideoperators.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T04:36:48.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Test.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\Test.csproj",
               "RelativeDocumentMoniker": "Test.csproj",
@@ -40,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\Test\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAvwI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T22:45:29.471Z",
               "EditorCaption": ""
