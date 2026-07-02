@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="Simple ToDoList" />
+    <meta name="author" content="Omar Abdelsalam" />
+    <meta name="keywords" content="To Do List by C# Language" />
+    <meta name="viewport" content="" />
+    <title>@ViewBag.Title</title>
+
+    <style>
+        .navbar {
+            background-color:black;
+            width:100%;
+    }
+    .navbar  nav  ul{
+        list-style-type:none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        display:inline-block;
+    }
+
+    .navbar nav  ul li{
+        float: left;
+    }
+
+    .navbar nav  ul li a{
+        display: inline-block;
+        color:white;
+        text-align:center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    </style>
+    <link rel="stylesheet" type="text/css" href="~/StyleSheet1.css" asp-append-version="true" />
+</head>
+<body>
+    <div>
+    <div class="navbar">
+        <nav>
+            <ul>
+                <li><a> Home </a></li>
+                <li><a> Task's </a></li>
+            </ul>
+        </nav>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+wwwroot\StyleSheet1.css
+C:\Users\DELL\Desktop\EraaSoftAssignment\EraaSoft\Projects\Lecture 13\Lecture 13\wwwroot\StyleSheet1.css

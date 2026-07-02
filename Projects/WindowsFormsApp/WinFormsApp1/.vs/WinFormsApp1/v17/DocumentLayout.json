@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\forms\\managementcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:forms\\managementcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\blogic\\customerblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:blogic\\customerblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\entities\\dbwork\\applicationdbwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:entities\\dbwork\\applicationdbwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\forms\\managementcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:forms\\managementcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:loginfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|c:\\users\\dell\\desktop\\eraasoftassignment\\eraasoft\\projects\\windowsformsapp\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E204C93-C073-4117-B37A-9795F824B849}|WinFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv00AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:39:53.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInFrom.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\LogInFrom.cs",
+              "RelativeDocumentMoniker": "LogInFrom.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\LogInFrom.cs",
+              "RelativeToolTip": "LogInFrom.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:25:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:24:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerBLogic.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\BLogic\\CustomerBLogic.cs",
+              "RelativeDocumentMoniker": "BLogic\\CustomerBLogic.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\BLogic\\CustomerBLogic.cs",
+              "RelativeToolTip": "BLogic\\CustomerBLogic.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:13:06.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagementCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Forms\\ManagementCustomers.cs",
+              "RelativeDocumentMoniker": "Forms\\ManagementCustomers.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Forms\\ManagementCustomers.cs",
+              "RelativeToolTip": "Forms\\ManagementCustomers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:47:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Entities\\Customer.cs",
+              "RelativeToolTip": "Entities\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:14:12.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagementCustomers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Forms\\ManagementCustomers.cs",
+              "RelativeDocumentMoniker": "Forms\\ManagementCustomers.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Forms\\ManagementCustomers.cs [Design]",
+              "RelativeToolTip": "Forms\\ManagementCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T22:00:38.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBWork.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Entities\\DBWork\\ApplicationDBWork.cs",
+              "RelativeDocumentMoniker": "Entities\\DBWork\\ApplicationDBWork.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Entities\\DBWork\\ApplicationDBWork.cs",
+              "RelativeToolTip": "Entities\\DBWork\\ApplicationDBWork.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:53:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:47:04.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogInFrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\LogInFrom.cs",
+              "RelativeDocumentMoniker": "LogInFrom.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\LogInFrom.cs [Design]",
+              "RelativeToolTip": "LogInFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T16:22:46.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EraaSoftAssignment\\EraaSoft\\Projects\\WindowsFormsApp\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:10:18.924Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
